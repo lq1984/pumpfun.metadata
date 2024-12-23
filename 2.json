@@ -1,0 +1,20 @@
+{
+  "name": "LanceData2",
+  "description": "huggingface/name",
+  "external_url": "https://openseacreatures.io/1",
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/1.png",
+  "tasks": ["object-detect"],
+  "modalities": ["test"],
+  "formats": ["csv", "txt"],
+  "languages": ["zh_cn"],
+  "size": 1024,
+  "arxiv": "https://xxx",
+  "tags": ["Human-feeback"],
+  "libraries": ["pandas"],
+  "license": "apache",
+  "number_of_rows": 100,
+  "size_of_downloaded_dataset_files": 100,
+  "size_of_auto_converted_parquet_files": 100,
+  "hash": "0xxxxx",
+  "permissions": "public"
+}
